@@ -26,8 +26,9 @@ Before getting started, register an application at [Microsoft Azure Marketplace]
     // Outputs: Salve, mondo
  - Optionally, you could provide a 3rd parameter, from language.
 
-	$from_lang = 'en';
-	echo $mth->translate($text,$to_lang,$from_lang);    
+
+    $from_lang = 'en';
+    echo $mth->translate($text,$to_lang,$from_lang);
 
 ####Detect Language
 
