@@ -1,7 +1,5 @@
 # Microsoft Translator API - PHP
 
-----------
-
 A simple PHP wrapper for Microsoft Translator API v2
 
 ###Usage
